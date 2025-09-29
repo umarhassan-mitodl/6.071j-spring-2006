@@ -5,6 +5,8 @@ description: This resource contains problems on circuits driven with sinusoidal 
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/d59fa852c35a6a1532375e0d4586800f_hw8.pdf
 file_size: 84359
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

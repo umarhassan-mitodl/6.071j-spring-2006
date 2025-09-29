@@ -4,6 +4,8 @@ description: 'The ZIP file contains: IR_Laboratory.vi.'
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/6507745d16f1ecf647c9d583386e93c9_lab24.zip
 file_size: 240085
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

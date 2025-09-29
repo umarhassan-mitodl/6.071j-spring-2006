@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/db12b1ec3227209dd7eba75f21033d08_quiz1.pdf
 file_size: 123256
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

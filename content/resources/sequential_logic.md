@@ -5,6 +5,8 @@ description: This resource discusses about bistable circuit, the set-reset (SR) 
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/d0a578bc6340f91188b1e3ac487b62ab_sequential_logic.pdf
 file_size: 136012
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

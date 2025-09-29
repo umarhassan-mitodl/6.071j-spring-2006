@@ -4,6 +4,8 @@ description: 'The ZIP file contains: Bandwidth.vi and Notch.vi.'
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/df4570cf5950b716ffb54dab266fc89a_lab14.zip
 file_size: 2503940
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

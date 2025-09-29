@@ -4,6 +4,8 @@ description: 'The ZIP file contains: Comparator.vi and Inv_S_Trigger.vi.'
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/7b6fbd242a92a7b0e0fe740adbf71ab8_lab22.zip
 file_size: 539358
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

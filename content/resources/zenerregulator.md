@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/ab5e9be963855b4bae60a5fd0366affb_ZenerRegulator.vi
 file_size: 291662
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

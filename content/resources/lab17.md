@@ -4,6 +4,8 @@ description: 'The ZIP file contains: ZenerRegulator.vi.'
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/fafd1592887e3271ac57901a3e7ec690_lab17.zip
 file_size: 88069
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

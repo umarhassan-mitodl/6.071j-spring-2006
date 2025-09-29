@@ -6,6 +6,8 @@ description: This resource contains information on various types of signals, LTI
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/5e8b055b0946eef6ae877e13e1d1371f_02_signals.pdf
 file_size: 1372385
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
