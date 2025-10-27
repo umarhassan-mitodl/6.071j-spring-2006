@@ -4,8 +4,6 @@ description: 'The ZIP file contains: manual_resistor_experiment.vi and resistor_
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/ff253a60df8318231345836f6899b697_lab7.zip
 file_size: 531097
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

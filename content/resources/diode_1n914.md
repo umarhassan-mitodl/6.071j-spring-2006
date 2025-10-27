@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/07d98610e968a5b22203ae8cc26ca7ce_diode_1n914.pdf
 file_size: 147265
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

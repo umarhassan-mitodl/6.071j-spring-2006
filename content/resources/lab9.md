@@ -4,8 +4,6 @@ description: 'The ZIP file contains: Current_Source_01.vi'
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/0e16bc95b9c0978fbeb13f7783372708_lab9.zip
 file_size: 314781
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

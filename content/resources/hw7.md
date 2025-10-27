@@ -5,8 +5,6 @@ description: This resource contains problems on circuits containing switches as 
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/fa0adae65a14eb126ef08c04fa54633b_hw7.pdf
 file_size: 66017
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

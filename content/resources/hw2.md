@@ -5,8 +5,6 @@ description: This resource contains information on calculations of voltage and r
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/de3c1a18ab018735e33ff0f9b308dffc_hw2.pdf
 file_size: 47152
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

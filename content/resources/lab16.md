@@ -4,8 +4,6 @@ description: 'The ZIP file contains: diode_1n914.pdf, zener_1n754.pdf, and Zener
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/f92c8e93c28cb5563edebad6e0b8264f_lab16.zip
 file_size: 122560
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

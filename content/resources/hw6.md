@@ -5,8 +5,6 @@ description: This resource contains information on thevenin equivalent circuits 
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/d50e07422edd6dae9a92fe56f9ed2a01_hw6.pdf
 file_size: 103899
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

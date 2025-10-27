@@ -5,8 +5,6 @@ description: This resource contains information on diodes, reactive elements, op
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/1228e6f13d2b2facbdd8184ef240832b_final06.pdf
 file_size: 287289
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

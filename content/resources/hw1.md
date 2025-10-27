@@ -4,8 +4,6 @@ description: This resource contains information on RMS values, and complex numbe
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/bc02a34e8454b2fd7184fb199e902ffc_hw1.pdf
 file_size: 134647
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

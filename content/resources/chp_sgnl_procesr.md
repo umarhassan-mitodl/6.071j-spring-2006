@@ -5,8 +5,6 @@ description: Doppler radar signal transmission, reception and processing. (Image
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/9f37ea3e7dceaec4fcd3110fcbf745d9_chp_sgnl_procesr.jpg
 file_size: 68552
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

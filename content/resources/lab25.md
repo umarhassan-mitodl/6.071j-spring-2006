@@ -6,8 +6,6 @@ description: 'The ZIP file contains: an_3001.pdf, an_3005.pdf, plethysmography1.
 file: /courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/0d196b549c176f947255256b8c9ed7c3_lab25.zip
 file_size: 592162
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
